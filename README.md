@@ -4,12 +4,16 @@ hitokotter<br>
 <本番環境URL><br>
 http://hitokotter.herokuapp.com/
 <br>
+テストログインボタンよりログインすることができます。
+<br>
 ![ログイン](https://user-images.githubusercontent.com/63763161/97005779-e1e46580-1579-11eb-8f74-db9c23612c5d.gif)
 ## 開発環境
 ■言語： PHP　<br>
 ■フレームワーク：Laravel<br>
+■ツール： ｌａｒａｄｏｃｋ， docker<br>
 ■フロントエンド：HTML, CSS, vue.js<br>
 ■DB： PostgreSQL<br>
+
 
 ## できること
 #### 一言投稿 及びタグ管理<br>
